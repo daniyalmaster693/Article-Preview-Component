@@ -7,7 +7,7 @@ A basic HTML, CSS challenge from Frontend Mentor. This is the solution to the ch
 
 <h2> Links </h2>
 
-<li> Link to solution:  </li>
+<li> Link to solution: https://www.frontendmentor.io/solutions/article-preview-component-solution-HgHcyGemyT </li>
 <li> Link to live demo: https://blaze4884.github.io/Article-Preview-Component/ </li>
 
 <h2> What have I learned </h2>
